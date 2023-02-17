@@ -2,4 +2,4 @@
 
 <kbd><a href="https://uuuuuvika.github.io/markdownPreviewer/">CHECK IT OUT HERE</a></kbd>
 
-<img width="1247" alt="xxxxx" src="https://user-images.githubusercontent.com/47716922/219798009-261d21fa-3525-4254-ac54-e5841f9252f1.png">
+<img width="1412" alt="md" src="https://user-images.githubusercontent.com/47716922/219798948-bcad6e48-30e7-491c-80ef-055a2d74fe8e.png">
