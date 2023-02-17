@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/markdownPreviewer/static/css/main.3824ee69.css",
+    "main.js": "/markdownPreviewer/static/js/main.18120305.js",
+    "static/media/horse.png": "/markdownPreviewer/static/media/horse.aee4cfdef4313cb881b5.png",
+    "index.html": "/markdownPreviewer/index.html",
+    "main.3824ee69.css.map": "/markdownPreviewer/static/css/main.3824ee69.css.map",
+    "main.18120305.js.map": "/markdownPreviewer/static/js/main.18120305.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3824ee69.css",
+    "static/js/main.18120305.js"
+  ]
+}
