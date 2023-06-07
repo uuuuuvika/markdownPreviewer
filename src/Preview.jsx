@@ -1,11 +1,10 @@
 import React from "react";
 import { marked } from "marked";
-//to purify the input
-//https://github.com/kkomelin/isomorphic-dompurify
+//to purify the input: https://github.com/kkomelin/isomorphic-dompurify
 //import DOMPurify from 'isomorphic-dompurify';
 
 function Preview({ text }) {
-    // in case i want to satitize 
+    // to sanitize:
     // const clean = DOMPurify.sanitize(text);
      const renderer = new marked.Renderer();
      renderer.blockquote = (quote) =>

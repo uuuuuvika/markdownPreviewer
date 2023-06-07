@@ -1,10 +1,9 @@
-import './App.css';
+import "./App.css";
 import React, { useState } from "react";
 import Preview from "./Preview";
-import horseImg from "./horse.png"
+import horseImg from "./horse.png";
 
 function App() {
-
   const [text, setText] = useState(`# Greetings and salutations!
 ## Welcome to the <mark>Markdown Previewer</mark>
 
